@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670076617 source:c:\users\rodri\documents\rodrigo\rodrigo\facultad\programacion 2022\matrizz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
